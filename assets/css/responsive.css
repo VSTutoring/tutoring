@@ -1,0 +1,22 @@
+@media screen and (max-width:1200px){
+	nav.navbar.bootsnav ul.nav > li > a { padding: 35px 8px;}
+	.welcome-hero {height: 768px;}
+}
+
+@media screen and (max-width:1008px){
+	nav.navbar.bootsnav ul.nav > li.dropdown span.megamenu-title  {display:block;color: #43465d;font-size: 18px;}
+	nav.navbar.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li .megamenu-sub-title a {margin-top: 20px;font-size: 14px;}
+	nav.navbar.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li .megamenu-sub-txt a{margin-bottom: 15px;}
+}
+
+@media screen and (max-width:992px){
+	nav.navbar.bootsnav .navbar-collapse.collapse.in {padding-bottom: 25px;}
+	nav.navbar.bootsnav .navbar-toggle {display: inline-block; float: right;margin-right: 0;margin-top: 21px;}
+	nav.navbar.bootsnav .navbar-brand {float: left!important;}
+	nav.navbar.bootsnav ul.nav > li > a {padding: 15px 0px;border: transparent;}
+}
+
+@media screen and (max-width:770px){
+	.isotope .item {max-width: 350px;margin: 0 auto 30px;}
+}
+
